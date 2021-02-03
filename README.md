@@ -1,1 +1,1 @@
-# docker-pdi-java9-cron
+# docker-pdi-java8-cron
